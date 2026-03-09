@@ -1,0 +1,11 @@
+# Mac
+*.DS_Store
+
+# Data
+src/data/*
+!src/data/README.md
+
+# Code stuff
+*.ipynb_checkpoints
+*.pyc
+
